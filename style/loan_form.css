@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgba(210,303,104,0.8);  
+}
+.container{
+    min-height: 100vh;
+    background-color: rgba(210,303,104,0.5);
+}
+h6{
+    font-size: 20px;
+}
+.loan div{
+margin-top: 3px;
+}
+.loan input[type='submit']{
+    width: 130px;
+    height: 30px;
+}

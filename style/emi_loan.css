@@ -1,0 +1,68 @@
+body{
+    background:linear-gradient(#987,#876,#102);
+}
+.container2{
+    border: 1px solid black;
+    min-height: 100vh;   
+    padding: 3px;
+}
+
+ div{
+    padding: 3px;
+}
+.font_size{
+    font-size: 18px;
+}
+tr th{
+    font-size: 15px;
+}
+.hid{
+    display:none;
+    
+}
+
+
+.crose{
+    position:fixed;
+    top: 10px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: red;
+    border: 2px solid black;
+}
+.crose span{
+    position: relative;
+    top: -3px;
+    color: white;
+}
+
+
+
+
+
+.container{
+    background-color:rgba(1198,104,870,0.5);
+    position: relative;
+    top:3px;
+}
+.crose{
+    position:sticky;
+    top:10px;
+    left:0px;
+    position: fixed;
+}
+.loadtable{
+    background-color:rgba(233,104,098,0.4);
+}
+.message_container{
+    display:none;
+}
+.success_message{
+    display:none;
+    color:white;
+}
+.error_message{
+    display:none;
+    color:white;
+}

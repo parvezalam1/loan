@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(#945,rgb(170, 170, 177),rgb(167, 177, 176));
+}
+h6{
+    width: 100%;
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+}
+.container{
+    /* border: 1px solid black; */
+    min-height: 100vh;
+    background: linear-gradient(#945,rgb(170, 170, 177),rgb(167, 177, 176));
+}
+input{
+    margin-top: 2px;
+    height: 30px;
+    font-weight: bold;
+}
+input[type='radio']{
+ width: 15px;
+    height: 15px;
+border: none;
+}
+
+.form input{
+    border: 1px solid black;
+}
+input[type='submit']{
+    width: 130px;
+    height: 30px;
+    margin-top: 8px;
+    background-color: darksalmon;
+    font-size: 18px;
+    font-style: italic;
+}
+h5{
+    font-size: 15px;
+    margin-top: 8px;
+    text-align: auto;
+    color: rgb(17, 14, 14);
+}
